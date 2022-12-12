@@ -25,7 +25,7 @@ var load =quiz("what is my name? ","priyanshu");
 var load =quiz("what is my age", "19");
 var load =quiz("where do i live now", "Chennai");
 var load =quiz("what is my college name", "VIT"); 
-hsdsasd
+
 
 
 
